@@ -60,6 +60,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/exynos7870-common/proprietary/vendor/etc/wifi/bcmdhd_sta.bin_c5_blob:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bcmdhd_sta.bin_c5_blob \
     vendor/samsung/exynos7870-common/proprietary/vendor/etc/wifi/indoorchannel.info:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/indoorchannel.info \
     vendor/samsung/exynos7870-common/proprietary/vendor/etc/wifi/nvram.txt_c5:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/nvram.txt_c5 \
+    vendor/samsung/exynos7870-common/proprietary/vendor/etc/yas_set.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/yas_set.cfg \
     vendor/samsung/exynos7870-common/proprietary/vendor/firmware/bcm4345C5_V0069.0172.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/bcm4345C5_V0069.0172.hcd \
     vendor/samsung/exynos7870-common/proprietary/vendor/firmware/cs35l40-dsp1-spk-prot-calib.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cs35l40-dsp1-spk-prot-calib.bin \
     vendor/samsung/exynos7870-common/proprietary/vendor/firmware/cs35l40-dsp1-spk-prot.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cs35l40-dsp1-spk-prot.bin \
